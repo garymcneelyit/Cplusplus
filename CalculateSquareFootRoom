@@ -1,3 +1,5 @@
+
+//Save this file as squarefootcalc.cpp 
 #include <iostream>
 using namespace std;
 int main() {
