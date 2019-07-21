@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main() {
+int RoomWidth{0};
+int RoomLength{0};
+cout << " Please enter the Width of the room ";
+cin >> RoomWidth;
+cout << Please enter the Lenght of the room ";
+cin >> RoomLenght;
+cout << " The area of the room is " << RoomWidth * RoomLength << " Square Feet " << endl;
+return 0;
+}
